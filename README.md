@@ -1,7 +1,8 @@
-	<p align="center">
-  <h1 align="center">基于深度异构特征融合的多模态行人重识别 
+<h1 align="center">基于深度异构特征融合的多模态行人重识别 
       Multimodal Person Re-Identification Based on Deep Heterogeneous</h1>
+<p align="center">
 <img src="./results/logo.jpg" alt="Description of the image" style="width:54%;">
+<p align="center">
 
   <p align="center">
     <a href="https://github.com/xiaozhou-alt" rel="external nofollow noopener" target="_blank"><strong>Haojing Zhou</strong></a>
